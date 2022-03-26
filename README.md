@@ -6,3 +6,7 @@ caldeira deve ser desligada por um funcionário, responsável pelo monitoramento
 
 ### LINK JIRA
 https://bezerracorp.atlassian.net/browse/PRCE3-3
+
+### COLABORADORES
+Gabriel Vinicius Santos 
+Rafael Fernando Bezerra
